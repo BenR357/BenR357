@@ -4,7 +4,7 @@
 
 - <b><a href="https://github.com/BenR357/BikeShareProject">Bike Share Project 
   
-- <b><a href="https://github.com/BenR357/BikeShareProject">Tesla Stock Project
+- <b><a href="">Tesla Stock Project
 
 <h2>Certifications</h2>
 
