@@ -4,9 +4,7 @@
 
 - <b><a href="https://github.com/BenR357/BikeShareProject">Bike Share Project 
   
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- 
+- <b><a href="https://github.com/BenR357/BikeShareProject">Tesla Stock Project
 
 <h2>Certifications</h2>
 
@@ -21,7 +19,6 @@
 [linkedin]: https://www.linkedin.com/in/benjaminr357/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -31,6 +28,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
