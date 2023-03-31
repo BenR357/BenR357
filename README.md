@@ -1,4 +1,4 @@
-<h1>Hi, I'm Benjamin! <br/><a href="https://www.linkedin.com/in/benjaminr357/">Accountant</a>
+<h1>Hi, I'm Benjamin! <br/><a href="https://www.linkedin.com/in/benjaminr357/">Accountant</a>, <a href="https://www.credly.com/badges/048072d5-c66c-4b06-bb4f-0fc3101e484e/public_url">Certified Data Analyst</a>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
