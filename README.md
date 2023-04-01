@@ -6,6 +6,7 @@ As an experienced accountant with a passion for data analysis and financial mode
 ## Languages and Tools
 <img src="https://user-images.githubusercontent.com/129348678/229298618-266d5e61-628b-4dcb-9ce3-55c32ccc4de7.png" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" /> <img src="https://user-images.githubusercontent.com/129348678/229298991-165d3d89-a068-47c1-a514-b9aba730866d.png" width="40" />  <img src="https://user-images.githubusercontent.com/129348678/229299160-19abaa8b-95cb-42e8-a1c1-3e9cffabfc43.png" width="150" />  <img src="https://user-images.githubusercontent.com/129348678/229299274-21dd42be-fc61-489f-b279-c24e92cc996c.png" width="40" />  
           
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="048072d5-c66c-4b06-bb4f-0fc3101e484e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  
   
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
