@@ -15,7 +15,8 @@ As an experienced accountant with a passion for data analysis and financial mode
 - <b><a href="">Tesla Stock Project
 <br/>
 <h2>Certifications</h2>
-![cert](https://github.com/BenR357/BenR357/blob/main/google-data-analytics-certificate.2.png?raw=true)
+![Google Data Analytics Certificate](https://github.com/BenR357/BenR357/blob/main/google-data-analytics-certificate.2.png?raw=true)
+
 - <a href="https://www.credly.com/badges/048072d5-c66c-4b06-bb4f-0fc3101e484e/public_url">Google Data Analytics Certification</a>
 
 
