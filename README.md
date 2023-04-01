@@ -1,6 +1,8 @@
-<h1>Benjamin Ramirez 
-<br/><a href="https://www.linkedin.com/in/benjaminr357/">Accountant</a>, <a href="https://www.credly.com/badges/048072d5-c66c-4b06-bb4f-0fc3101e484e/public_url">Certified Data Analyst</a>
+# Benjamin Ramirez 
+## <br/><a href="https://www.linkedin.com/in/benjaminr357/">Accountant</a>, <a href="https://www.credly.com/badges/048072d5-c66c-4b06-bb4f-0fc3101e484e/public_url">Certified Data Analyst</a>
 
+As an experienced accountant with a passion for data analysis and financial modeling, I am excited to bring my skills and expertise to a new role as a data analyst or financial analyst. With over 10 years of experience in accounting and 5 years of experience in management, I have developed a strong foundation in financial analysis and reporting. My recent certifications in SQL and Google Data Analytics have further enhanced my analytical skills and allowed me to develop innovative solutions to complex business problems. I am eager to leverage my experience and knowledge to drive business success and deliver value to your organization.
+  
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b><a href="https://github.com/BenR357/BikeShareProject">Bike Share Project 
