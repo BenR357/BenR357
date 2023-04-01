@@ -16,7 +16,7 @@ As an experienced accountant with a passion for data analysis and financial mode
 <br/>
 <h2>Certifications</h2>
 
-<img src="https://user-images.githubusercontent.com/129348678/229302413-a67b904f-c878-4c62-9b97-388bd03389d7.png" width="100" />
+<img src="https://user-images.githubusercontent.com/129348678/229302413-a67b904f-c878-4c62-9b97-388bd03389d7.png" width="150" />
 
 
 
