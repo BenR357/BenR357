@@ -1,11 +1,12 @@
-<h1>Hi, I'm Benjamin! <br/><a href="https://www.linkedin.com/in/benjaminr357/">Accountant</a>, <a href="https://www.credly.com/badges/048072d5-c66c-4b06-bb4f-0fc3101e484e/public_url">Certified Data Analyst</a>
+<h1>Benjamin Ramirez 
+<br/><a href="https://www.linkedin.com/in/benjaminr357/">Accountant</a>, <a href="https://www.credly.com/badges/048072d5-c66c-4b06-bb4f-0fc3101e484e/public_url">Certified Data Analyst</a>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b><a href="https://github.com/BenR357/BikeShareProject">Bike Share Project 
   
 - <b><a href="">Tesla Stock Project
-
+<br/>
 <h2>Certifications</h2>
 
 - <a href="https://www.credly.com/badges/048072d5-c66c-4b06-bb4f-0fc3101e484e/public_url">Google Data Analytics Certification</a>
