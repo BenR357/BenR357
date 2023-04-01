@@ -6,17 +6,19 @@ As an experienced accountant with a passion for data analysis and financial mode
 ## Languages and Tools
 <img src="https://user-images.githubusercontent.com/129348678/229298618-266d5e61-628b-4dcb-9ce3-55c32ccc4de7.png" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" /> <img src="https://user-images.githubusercontent.com/129348678/229298991-165d3d89-a068-47c1-a514-b9aba730866d.png" width="40" />  <img src="https://user-images.githubusercontent.com/129348678/229299160-19abaa8b-95cb-42e8-a1c1-3e9cffabfc43.png" width="150" />  <img src="https://user-images.githubusercontent.com/129348678/229299274-21dd42be-fc61-489f-b279-c24e92cc996c.png" width="40" />  
           
+<br />
+<br />
 
-  
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<h2>Data Analysis Projects:</h2>
 
 - <b><a href="https://github.com/BenR357/BikeShareProject">Bike Share Project 
   
 - <b><a href="">Tesla Stock Project
-<br/>
+
+
 <h2>Certifications</h2>
 
-<img src="https://user-images.githubusercontent.com/129348678/229302413-a67b904f-c878-4c62-9b97-388bd03389d7.png" width="150" />
+<img src="https://github.com/BenR357/BenR357/blob/main/google-data-analytics-certificate.2%20(1).png?raw=true" width="150" />
 
 
 
