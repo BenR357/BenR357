@@ -15,9 +15,8 @@ As an experienced accountant with a passion for data analysis and financial mode
 - <b><a href="">Tesla Stock Project
 <br/>
 <h2>Certifications</h2>
-https://imgur.com/Ux2xOrq
 
-![image](https://user-images.githubusercontent.com/129348678/229302413-a67b904f-c878-4c62-9b97-388bd03389d7.png)
+<img src="https://user-images.githubusercontent.com/129348678/229302413-a67b904f-c878-4c62-9b97-388bd03389d7.png" width="100" />
 
 
 
