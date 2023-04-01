@@ -1,4 +1,4 @@
-<span style="display: block; border-bottom: 5px solid black !important; padding-bottom: 5px;"><h1>Benjamin Ramirez</h1></span>
+#Benjamin Ramirez
 <br/>
 ## <a href="https://www.credly.com/badges/048072d5-c66c-4b06-bb4f-0fc3101e484e/public_url">Certified Data Analyst</a>, <a href="https://www.linkedin.com/in/benjaminr357/">Accountant</a>
 
