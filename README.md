@@ -10,7 +10,7 @@ As an experienced accountant with a passion for data analysis and financial mode
 <br />
 <h2>Data Analysis Projects:</h2>
 
-- <b><a href="https://github.com/BenR357/BikeShareProject">Bike Share Project 
+- <b><a href="https://benr357.github.io/BikeShareProject/">Bike Share Project 
   
 - <b><a href="">Tesla Stock Project (in progress)</b></b></b>
 <br />
