@@ -1,6 +1,5 @@
-#Benjamin Ramirez
-<br/>
-## <a href="https://www.credly.com/badges/048072d5-c66c-4b06-bb4f-0fc3101e484e/public_url">Certified Data Analyst</a>, <a href="https://www.linkedin.com/in/benjaminr357/">Accountant</a>
+<h1>Benjamin Ramirez</h1>
+<h2> <a href="https://www.credly.com/badges/048072d5-c66c-4b06-bb4f-0fc3101e484e/public_url">Certified Data Analyst</a>, <a href="https://www.linkedin.com/in/benjaminr357/">Accountant</a></h2>
 
 As an experienced accountant with a passion for data analysis and financial modeling, I am excited to bring my skills and expertise to a new role as a data analyst. With over 10 years of experience in accounting and 5 years of experience in management, I have developed a strong foundation in financial analysis and reporting. My recent certifications in SQL and Google Data Analytics have further enhanced my analytical skills and allowed me to develop innovative solutions to complex business problems. I am eager to leverage my experience and knowledge to drive business success and deliver value to your organization.
 <br />
@@ -13,14 +12,31 @@ As an experienced accountant with a passion for data analysis and financial mode
 
 - <b><a href="https://github.com/BenR357/BikeShareProject">Bike Share Project 
   
-- <b><a href="">Tesla Stock Project (in progress)
-
+- <b><a href="">Tesla Stock Project (in progress)</b></b></b>
 <br />
 
 <h2>Certifications</h2>
 
 <img src="https://github.com/BenR357/BenR357/blob/main/google-data-analytics-certificate.2%20(1).png?raw=true" width="150" />
 
+<h2>Experience</h2>
+  
+<b>City of Midlothian </b> 
+(Jan 2023 - Present)
+<br />
+Senior Accountant
+<br />
+  
+  
+<b>BGCT </b>
+(Mar 2017 - Dec 2022)
+<br />
+Interim Controller / General ledger Manager
+  
+<b>Children's Health System of Texas</b>
+(Nov 2015 - Mar 2017)
+  <br />
+Affiliate Accountant
 
 
 <h2> Connect with me:</h2>
