@@ -12,7 +12,7 @@ As an experienced accountant with a passion for data analysis and financial mode
 
 - <b><a href="https://benr357.github.io/BikeShareProject/">Bike Share Project 
   
-- <b><a href="">Tesla Stock Project (in progress)</b></b></b>
+- Tesla Stock Project (in progress)</b></b></b>
 <br />
 
 <h2>Certifications</h2>
